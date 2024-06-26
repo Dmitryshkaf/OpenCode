@@ -1,0 +1,8 @@
+person:
+Coordinates: (146, 174, 192, 297)
+Coordinates: (636, 15, 657, 70)
+Coordinates: (214, 155, 284, 228)
+Coordinates: (197, 212, 279, 288)
+Coordinates: (688, 145, 719, 220)
+Coordinates: (225, 212, 278, 285)
+Coordinates: (255, 154, 299, 223)
