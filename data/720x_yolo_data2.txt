@@ -1,0 +1,2 @@
+Group:
+Coordinates: (146, 154, 299, 297)
