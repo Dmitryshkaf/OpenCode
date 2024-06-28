@@ -1,0 +1,9 @@
+person:
+Coordinates: (77, 615, 337, 1318) Center: (207, 966)
+Coordinates: (265, 571, 477, 1258) Center: (371, 914)
+Coordinates: (1164, 575, 1378, 1199) Center: (1271, 887)
+Coordinates: (1017, 594, 1219, 1259) Center: (1118, 926)
+Coordinates: (559, 590, 733, 1307) Center: (646, 948)
+Coordinates: (431, 586, 592, 1252) Center: (511, 919)
+Coordinates: (709, 576, 875, 1246) Center: (792, 911)
+Coordinates: (858, 577, 1040, 1265) Center: (949, 921)
