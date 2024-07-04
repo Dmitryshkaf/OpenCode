@@ -1,0 +1,7 @@
+person:
+Coordinates: (146, 173, 192, 298) Center: (169, 235)
+Coordinates: (181, 212, 272, 286) Center: (226, 249)
+Coordinates: (637, 14, 656, 70) Center: (646, 42)
+Coordinates: (214, 170, 251, 226) Center: (232, 198)
+Coordinates: (232, 154, 298, 224) Center: (265, 189)
+Coordinates: (258, 154, 298, 222) Center: (278, 188)
