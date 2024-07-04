@@ -1,2 +1,0 @@
-Group:
-Coordinates: (77, 571, 1378, 1318)
