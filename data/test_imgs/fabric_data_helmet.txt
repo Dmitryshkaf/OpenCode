@@ -1,9 +1,10 @@
-helmet:
-Coordinates: (0, 66, 13, 85) Center: (6, 75)
-Coordinates: (131, 47, 151, 71) Center: (141, 59)
-Coordinates: (34, 56, 60, 79) Center: (47, 67)
 person:
 Coordinates: (0, 66, 27, 167) Center: (13, 116)
 Coordinates: (118, 47, 161, 167) Center: (139, 107)
 Coordinates: (32, 56, 76, 168) Center: (54, 112)
 Coordinates: (104, 46, 135, 109) Center: (119, 77)
+helmet:
+Coordinates: (0, 64, 12, 85) Center: (6, 74)
+Coordinates: (132, 46, 151, 71) Center: (141, 58)
+Coordinates: (106, 44, 119, 58) Center: (112, 51)
+Coordinates: (37, 55, 59, 77) Center: (48, 66)

@@ -1,6 +1,8 @@
-helmet:
-Coordinates: (130, 123, 146, 140) Center: (138, 131)
 person:
 Coordinates: (125, 123, 158, 234) Center: (141, 178)
 Coordinates: (34, 128, 64, 203) Center: (49, 165)
 Coordinates: (57, 130, 71, 180) Center: (64, 155)
+helmet:
+Coordinates: (130, 122, 146, 140) Center: (138, 131)
+Coordinates: (48, 127, 59, 141) Center: (53, 134)
+Coordinates: (62, 129, 69, 139) Center: (65, 134)
