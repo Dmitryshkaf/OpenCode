@@ -33,21 +33,6 @@ torch (PyTorch)
 
 Трекер: ByteTrack
 
-Структура проекта
-text
-project-root/
-│
-├── models/                    # Веса моделей (YOLOv9, кастомная модель для касок)
-├── data/
-│   ├── test_imgs/            # Тестовые изображения
-│   └── test_videos/          # Тестовые видео
-├── scripts/
-│   ├── image_processing.py   # Скрипт для обработки изображений
-│   ├── video_processing.py   # Скрипт для обработки видео
-│   └── train_helmet_model.py # Скрипт для обучения модели детекции касок
-├── outputs/                  # Результаты обработки (изображения, видео)
-├── requirements.txt
-└── README.md
 
 
 Данные для обучения
