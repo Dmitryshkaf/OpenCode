@@ -1,10 +1,7 @@
 # OpenCode
 Production practice
 Safety Monitoring System: Person & Helmet Detection
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/OpenCV-4.x-green
-https://img.shields.io/badge/PyTorch-Latest-orange
-https://img.shields.io/badge/YOLO-Ultralytics-red
+
 
 Этот проект представляет собой систему мониторинга безопасности на производственных и строительных площадках. Система использует современные модели компьютерного зрения для автоматического обнаружения людей, группировки их по proximity, проверки наличия защитных касок и отслеживания перемещений на видео.
 
